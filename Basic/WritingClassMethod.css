@@ -1,0 +1,43 @@
+
+.btn1 {
+    padding: 15px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    background: hotpink;
+}
+
+
+
+.f-small{
+    font-size: 12px;
+}
+
+.f-mid{
+    font-size: 16px;
+}
+
+.f.lg{
+    font-size: 20px;
+}
+
+
+
+.btn {
+    padding: 20px;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.btn1{
+    background: hotpink;
+}
+
+.btn2{
+    background: lightcoral;
+}
+
+.btn {
+    
+}
