@@ -1,0 +1,49 @@
+
+.wrapper {
+    width: 800px;
+}
+
+.blog_title {
+    width: 80%;
+    height: 200px;
+    background: wheat;
+    float: left;
+}
+
+.blog_img {
+    width: 20%;
+    height: 200px;
+    background: white;
+    float: left;
+}
+
+
+.blog_profile {
+    float: left;
+}
+
+.blogimg {
+    width: 50px;
+    float: left;
+    display: block;
+}
+
+
+
+.navbar li{
+    display: inline-block;
+}
+
+.navbar a{
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.navbar li{
+    display: inline-block;
+    width: 60px;
+    text-align: center;
+    background: #eee;
+    padding: 10px;
+    border-radius: 5px;
+}
